@@ -43,7 +43,7 @@ Je suis **Vesdric**, passionné par l'univers de la **cybersécurité offensive*
 
 ---
 
-## 🏆 Compétences & Plateformes
+## 🏆 Plateformes
 
 <div align="center">
 
