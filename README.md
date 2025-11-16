@@ -24,8 +24,8 @@ Toujours à l’affût des vulnérabilités et des challenges CTF.
 ---
 
 ## 🥷 Badges & CTFs
-**TryHackMe** :  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/3700220.png)](https://tryhackme.com/p/vesdric)
+**TryHackMe Badge :**  
+<img src="https://tryhackme-badges.s3.amazonaws.com/DataverseCS.png" alt="TryHackMe Badge" />
 
 **Autres badges** :  
 - [Hack The Box](#) (à compléter)  
