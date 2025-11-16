@@ -63,13 +63,3 @@ Je suis **Vesdric**, passionné par l'univers de la **cybersécurité offensive*
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vesdric&theme=radical&hide_border=true)
 
 </div>
-
----
-
-<div align="center">
-
-![Footer](https://via.placeholder.com/800/0D1117/FFFFFF?text=Stay+Curious+%E2%80%A2+Stay+Secure+%E2%80%A2+Keep+Hacking)
-
-**"La sécurité n'est pas un produit, mais un processus"** - Bruce Schneier
-
-</div>
