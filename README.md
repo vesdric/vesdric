@@ -1,17 +1,5 @@
 # 🩸 Vesdric | Red Teamer & Cybersecurity Enthusiast
 
-<div align="center">
-
-![Banner](https://via.placeholder.com/800x200/0D1117/FFFFFF?text=Cyber+Security+Enthusiast+%7C+Red+Teamer+%7C+CTF+Player)
-
-**"Explorer les systèmes, comprendre les vulnérabilités, renforcer la sécurité"**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/DataverseCS)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/profile/yourprofile)
-
-</div>
-
 ---
 
 ## 👋 À Propos de Moi
