@@ -1,33 +1,36 @@
 # 🩸 Vesdric | Red Teamer & Cybersecurity Enthusiast
 
 Salut 👋, je suis **Vesdric**, passionné par le **Red Teaming**, le **pentesting** et les **CTFs**.  
-Toujours à l’affût des vulnérabilités, j’explore et automatise des solutions pour découvrir ce que les autres laissent derrière eux. 😎
-
----
-
-## 🎯 Focus Actuel
-- 🔭 **Exploits & scripts d’automatisation Red Team**  
-- 🌱 **Pentesting avancé, OSINT, reverse engineering**  
-- 💬 **Ask me about:** Cybersecurity, CTFs, hacking légal, scripts Python  
+Toujours à l’affût des vulnérabilités et des challenges techniques. 😎
 
 ---
 
 ## 🛠️ Compétences
+
 **Langages :**  
-![Langages](https://skillicons.dev/icons?i=py,js,bash,go,c,cpp)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,bash,go,c,cpp" />
+</p>
 
 **Outils & Frameworks :**  
-![Outils](https://skillicons.dev/icons?i=linux,git,docker,nmap,metasploit,burpsuite,ghidra)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,nmap,metasploit,burpsuite,ghidra" />
+</p>
 
 ---
 
 ## 🥷 TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/DataverseCS.png" alt="TryHackMe Badge" style="max-width:200px;" />
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/DataverseCS.png" alt="TryHackMe Badge" style="max-width:200px;" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=vesdric&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vesdric&layout=compact&theme=radical)
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vesdric&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vesdric&layout=compact&theme=radical" />
+</p>
