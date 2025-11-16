@@ -45,12 +45,10 @@ Je suis **Vesdric**, passionné par l'univers de la **cybersécurité offensive*
 
 ## 🏆 Compétences & Plateformes
 
-### **🎯 TryHackMe**
 <div align="center">
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/DataverseCS.png)](https://tryhackme.com/p/DataverseCS)
 
-**Statut :** En progression constante 🚀
 
 </div>
 
