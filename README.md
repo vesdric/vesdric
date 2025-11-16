@@ -12,7 +12,7 @@ Je suis **Vesdric**, passionné par l'univers de la **cybersécurité offensive*
 - 🏆 CTF Challenges & Compétitions
 - 🔍 Recherche de vulnérabilités
 
-**🧠 Philosophie :** *"Toujours apprendre, toujours tester, toujours sécuriser"*
+**🧠 Philosophie :** *"Toujours apprendre, toujours tester"*
 
 J'aime résoudre des challenges complexes et approfondir ma compréhension des mécanismes de sécurité pour mieux les protéger.
 
